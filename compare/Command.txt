@@ -1,0 +1,5 @@
+Command
+
+Path/main.py로 실행하면 됩니다.
+
+python -u "path/main.py" --policy_type 'random' --ne 100,1000,10000
